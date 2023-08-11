@@ -24,10 +24,10 @@ Users should be able to:
 ### Screenshot
 
 Desktop View:
-<img src="Order-Summary-Component/images/Desktop Screen Shot.png">
+<img src="images/Desktop Screen Shot.png">
 
 Mobile View:
-<img src="Order-Summary-Component/images/Mobile Screen Shot.png">
+<img src="images/Mobile Screen Shot.png">
 
 ### Links
 
